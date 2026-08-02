@@ -1,16 +1,48 @@
-## Hi there 👋
+ Hi, I'm Dakshin Ramesh 👋
 
-<!--
-**dakshinramesh3-glitch/dakshinramesh3-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Information Technology graduate from PSG College of Technology.
 
-Here are some ideas to get you started:
+I am building my career in Artificial Intelligence, Machine Learning, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning
+
+- Python
+- Machine Learning fundamentals
+- SQL
+- Linux
+- Cloud fundamentals
+- Cybersecurity basics
+- Git & GitHub
+
+ Portfolio Projects
+ Hybrid Vision Transformer + Swin Transformer WBC Classifier
+
+Deep learning project for white blood cell image classification using transformer-based computer vision models.
+
+Technologies:
+- Python
+- PyTorch
+- Vision Transformer (ViT)
+- Swin Transformer
+- Flask
+
+Status:
+Improving documentation and preparing it as a professional portfolio project.
+
+ Career Goals
+
+ Short Term
+- Gain my first professional IT experience
+- Build strong foundations in AI/ML, cybersecurity, software, and IT infrastructure
+
+ Long Term
+- Become an AI/ML or Cybersecurity professional
+- Work on impactful technology projects globally
+
+ Location
+
+Kuwait
+
+ Connect
+
+LinkedIn: Coming soon
