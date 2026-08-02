@@ -45,4 +45,7 @@ Kuwait
 
  Connect
 
-LinkedIn: Coming soon
+Connect
+
+LinkedIn:
+www.linkedin.com/in/dakshin-ramesh-330075398
