@@ -2,21 +2,31 @@ Hi, I'm Dakshin Ramesh.
 
 I am a B.Tech Information Technology graduate from PSG College of Technology, currently building my career in IT infrastructure, Artificial Intelligence, Machine Learning, and Cybersecurity.
 
-My current focus is developing strong technical foundations, gaining professional IT experience, and building practical projects in AI/ML and cybersecurity.
- Currently Learning
+My current focus is developing strong technical foundations, gaining professional IT experience, and building practical projects that improve my skills.
 
-- Python
-- Machine Learning fundamentals
-- SQL
-- Linux
+Current Focus
+
+IT Support Foundations:
+- Windows troubleshooting
+- Hardware and software support
+- Networking fundamentals
+- Active Directory basics
+- Linux fundamentals
+- User and system administration
+- Basic cybersecurity concepts
+
+Technical Growth:
+- Python programming
+- SQL and databases
 - Cloud fundamentals
-- Cybersecurity basics
-- Git & GitHub
+- Git and GitHub
+- Machine Learning fundamentals
 
- Portfolio Projects
- Hybrid Vision Transformer + Swin Transformer WBC Classifier
+Portfolio Projects
 
-Deep learning project for white blood cell image classification using transformer-based computer vision models.
+Hybrid Vision Transformer + Swin Transformer WBC Classifier
+
+A deep learning project for white blood cell image classification using transformer-based computer vision models.
 
 Technologies:
 - Python
@@ -26,23 +36,22 @@ Technologies:
 - Flask
 
 Status:
-Improving documentation and preparing it as a professional portfolio project.
+Improving documentation and preparing the project as a professional portfolio project.
 
- Career Goals
+Career Goals
 
- Short Term
+Short Term Goal:
 - Gain my first professional IT experience
-- Build strong foundations in AI/ML, cybersecurity, software, and IT infrastructure
+- Build strong foundations in IT support, software development, AI/ML, and cybersecurity
+- Develop practical skills through projects and continuous learning
 
- Long Term
-- Become an AI/ML or Cybersecurity professional
-- Work on impactful technology projects globally
+Long Term Goal:
+- Build a career in Artificial Intelligence, Machine Learning, or Cybersecurity
+- Work on impactful technology projects internationally
 
- Location
+Location
 
 Kuwait
-
- Connect
 
 Connect
 
