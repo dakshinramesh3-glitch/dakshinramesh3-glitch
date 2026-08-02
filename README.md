@@ -1,9 +1,8 @@
- Hi, I'm Dakshin Ramesh 
+Hi, I'm Dakshin Ramesh.
 
-B.Tech Information Technology graduate from PSG College of Technology.
+I am a B.Tech Information Technology graduate from PSG College of Technology, currently building my career in IT infrastructure, Artificial Intelligence, Machine Learning, and Cybersecurity.
 
-I am building my career in Artificial Intelligence, Machine Learning, and Cybersecurity.
-
+My current focus is developing strong technical foundations, gaining professional IT experience, and building practical projects in AI/ML and cybersecurity.
  Currently Learning
 
 - Python
