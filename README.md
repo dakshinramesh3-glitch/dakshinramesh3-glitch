@@ -1,4 +1,4 @@
- Hi, I'm Dakshin Ramesh 👋
+ Hi, I'm Dakshin Ramesh 
 
 B.Tech Information Technology graduate from PSG College of Technology.
 
